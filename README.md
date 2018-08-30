@@ -5,17 +5,13 @@
 **Bold Text**
 *Italic Text*
 ~~Misktake text~~
-| Columbia | Chicago |
-|-------- | ------- |
-| My own apartment | My family |
-| My friends | Good food |
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-| Tables        | Are           | Cool  |
+| Columbia        | Vs         | Chicago
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| my own apartment| or | My family |
+| My friends | or | good food | 
+|partying | or | sleeping | 
