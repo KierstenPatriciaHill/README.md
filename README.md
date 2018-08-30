@@ -9,7 +9,3 @@
 |-------- |------- |
 | My own apartment | My family |
 | My friends | Good food |
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
