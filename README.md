@@ -5,7 +5,7 @@
 **Bold Text**
 *Italic Text*
 ~~Misktake text~~
-Columbia | Chicago
--------- | -------
-My own apartment | My family
-My friends | Good food
+| Columbia | Chicago |
+| -------- | ------- |
+| My own apartment | My family |
+| My friends | Good food |
