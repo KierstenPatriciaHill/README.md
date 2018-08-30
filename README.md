@@ -6,7 +6,7 @@
 *Italic Text*
 ~~Misktake text~~
 | Columbia | Chicago |
-|-------- |------- |
+|-------- | ------- |
 | My own apartment | My family |
 | My friends | Good food |
 ```ruby
