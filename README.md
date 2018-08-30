@@ -5,7 +5,11 @@
 **Bold Text**
 *Italic Text*
 ~~Misktake text~~
-|Columbia |Chicago |
+| Columbia | Chicago |
 |-------- |------- |
 | My own apartment | My family |
 | My friends | Good food |
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
